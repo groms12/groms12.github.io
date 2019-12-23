@@ -210,3 +210,12 @@ footer {
 		text-align: center;
 
 }
+
+@media (max-width: 496px){
+	.portfolio-col-1 img, h3, p{
+		width: 420px
+	}
+
+	.portfolio-col-2 img, h3, p{
+		width: 420px
+	}
